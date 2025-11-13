@@ -3,7 +3,7 @@
 お手軽鬱ボタン。Boothの購入履歴の総額を計算できます。
 
 ## Original Author
-- **Author**: zeruku ([@zerukuVRC](https://x.com/zerukuVRC))
+- **Author**: zeruku ([@AmatsukaZeruku](https://x.com/@matsukaZeruku))
 - **Original Userscript**: [Greasyfork](https://greasyfork.org/ja/scripts/479322)
 - **License**: MIT
 

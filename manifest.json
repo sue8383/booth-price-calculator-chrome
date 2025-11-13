@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Boothの購入履歴から累計散財額を計算するツール",
+  "version": "3.0.3",
+  "description": "お手軽鬱ボタン。Boothの購入履歴の総額を計算できます。",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://accounts.booth.pm/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://accounts.booth.pm/orders",
+        "https://accounts.booth.pm/orders?*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}

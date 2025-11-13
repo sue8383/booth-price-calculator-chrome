@@ -1,6 +1,6 @@
 /**
  * Boothの購入履歴から累計散財額を計算するツール
- * Original author: zeruku (https://x.com/zerukuVRC)
+ * Original author: ぜるく (https://x.com/AmatsukaZeruku)
  * Original source: https://greasyfork.org/ja/scripts/479322
  * License: MIT
  *
